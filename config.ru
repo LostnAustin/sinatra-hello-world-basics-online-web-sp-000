@@ -1,5 +1,5 @@
 require './config/environment'
 require 'sinatra'
-reqire_relative './app.rb'
+require_relative './app.rb'
 
 run App
